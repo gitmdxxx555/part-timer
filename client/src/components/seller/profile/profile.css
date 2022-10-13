@@ -1,0 +1,27 @@
+.rating{
+    background: transparent;
+}
+
+.profileImgContainer{
+    position: absolute;
+    top: 331px;
+    left: 50px;
+}
+
+.profileImgContainer>img{
+    height: 155px;
+    width: 155px;
+    border-radius: 50%;
+    object-fit: cover;
+    cursor: pointer;
+}
+.shareCancelImgIcon{
+    border-radius: 50%;
+    background-color: red;
+    color: white;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+}
+

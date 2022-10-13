@@ -1,0 +1,21 @@
+.coverImg{
+    position: absolute;
+    top: 22%;
+    left: 11%;
+    z-index: 2;
+}
+.coverImg>img{
+    width: 1055px;
+  height: 365px;
+  object-fit: cover;
+  border-radius: 10px;
+  cursor: pointer;
+  border: 3px solid yellow;
+}
+
+.shareCancelImg{
+    position: absolute;
+    top: 0;
+    right: 0;
+    cursor: pointer;
+}
